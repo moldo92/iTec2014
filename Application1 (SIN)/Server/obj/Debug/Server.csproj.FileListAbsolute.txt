@@ -1,0 +1,51 @@
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Server.exe.config
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Server.exe
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Server.pdb
+E:\Programming\Projects\iTech\Application\Application1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\iTech\Application\Application1\Server\obj\Debug\Server.exe
+E:\Programming\Projects\iTech\Application\Application1\Server\obj\Debug\Server.pdb
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Model.dll
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Networking.dll
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Persistance.dll
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Services.dll
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\MySql.Data.dll
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Model.pdb
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Networking.pdb
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Persistance.pdb
+E:\Programming\Projects\iTech\Application\Application1\Server\bin\Debug\Services.pdb
+\\SIN\Application1\Server\bin\Debug\Server.exe.config
+\\SIN\Application1\Server\bin\Debug\Server.exe
+\\SIN\Application1\Server\bin\Debug\Server.pdb
+\\SIN\Application1\Server\bin\Debug\Helper.dll
+\\SIN\Application1\Server\bin\Debug\Model.dll
+\\SIN\Application1\Server\bin\Debug\Networking.dll
+\\SIN\Application1\Server\bin\Debug\Persistance.dll
+\\SIN\Application1\Server\bin\Debug\Services.dll
+\\SIN\Application1\Server\bin\Debug\MySql.Data.dll
+\\SIN\Application1\Server\bin\Debug\Helper.pdb
+\\SIN\Application1\Server\bin\Debug\Model.pdb
+\\SIN\Application1\Server\bin\Debug\Networking.pdb
+\\SIN\Application1\Server\bin\Debug\Persistance.pdb
+\\SIN\Application1\Server\bin\Debug\Services.pdb
+\\SIN\Application1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Server\obj\Debug\Server.exe
+\\SIN\Application1\Server\obj\Debug\Server.pdb
+e:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Server.exe.config
+e:\Facultate\iTEC\Application1 (SIN)\Server\obj\Debug\Server.exe
+e:\Facultate\iTEC\Application1 (SIN)\Server\obj\Debug\Server.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Server.exe
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Server.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Helper.dll
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Model.dll
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Networking.dll
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Persistance.dll
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Services.dll
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\MySql.Data.dll
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Helper.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Model.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Networking.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Persistance.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Server\bin\Debug\Services.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

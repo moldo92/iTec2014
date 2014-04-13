@@ -1,0 +1,14 @@
+E:\Programming\Projects\iTech\Application\Application1\Application1\bin\Debug\Application1.exe
+E:\Programming\Projects\iTech\Application\Application1\Application1\bin\Debug\Application1.pdb
+E:\Programming\Projects\iTech\Application\Application1\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\iTech\Application\Application1\Application1\obj\Debug\Application1.Properties.Resources.resources
+E:\Programming\Projects\iTech\Application\Application1\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache
+E:\Programming\Projects\iTech\Application\Application1\Application1\obj\Debug\Application1.exe
+E:\Programming\Projects\iTech\Application\Application1\Application1\obj\Debug\Application1.pdb
+\\SIN\Application1\Application1\obj\Debug\Application1.exe
+\\SIN\Application1\Application1\obj\Debug\Application1.pdb
+\\SIN\Application1\Application1\bin\Debug\Application1.exe
+\\SIN\Application1\Application1\bin\Debug\Application1.pdb
+\\SIN\Application1\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Application1\obj\Debug\Application1.Properties.Resources.resources
+\\SIN\Application1\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache

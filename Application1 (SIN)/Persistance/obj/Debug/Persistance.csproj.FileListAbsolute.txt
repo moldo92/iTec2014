@@ -1,0 +1,31 @@
+E:\Programming\Projects\iTech\Application\Application1\Persistance\bin\Debug\Persistance.dll
+E:\Programming\Projects\iTech\Application\Application1\Persistance\bin\Debug\Persistance.pdb
+E:\Programming\Projects\iTech\Application\Application1\Persistance\obj\Debug\Persistance.dll
+E:\Programming\Projects\iTech\Application\Application1\Persistance\obj\Debug\Persistance.pdb
+E:\Programming\Projects\iTech\Application\Application1\Persistance\bin\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Persistance\bin\Debug\Model.dll
+E:\Programming\Projects\iTech\Application\Application1\Persistance\bin\Debug\MySql.Data.dll
+E:\Programming\Projects\iTech\Application\Application1\Persistance\bin\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Persistance\bin\Debug\Model.pdb
+E:\Programming\Projects\iTech\Application\Application1\Persistance\obj\Debug\Persistance.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Persistance\bin\Debug\Persistance.dll
+\\SIN\Application1\Persistance\bin\Debug\Persistance.pdb
+\\SIN\Application1\Persistance\bin\Debug\Helper.dll
+\\SIN\Application1\Persistance\bin\Debug\Model.dll
+\\SIN\Application1\Persistance\bin\Debug\MySql.Data.dll
+\\SIN\Application1\Persistance\bin\Debug\Helper.pdb
+\\SIN\Application1\Persistance\bin\Debug\Model.pdb
+\\SIN\Application1\Persistance\obj\Debug\Persistance.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Persistance\obj\Debug\Persistance.dll
+\\SIN\Application1\Persistance\obj\Debug\Persistance.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\Persistance.dll
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\Persistance.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\Helper.dll
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\Model.dll
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\MySql.Data.dll
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\Helper.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\Model.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\obj\Debug\Persistance.csprojResolveAssemblyReference.cache
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\obj\Debug\Persistance.dll
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\obj\Debug\Persistance.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Persistance\bin\Debug\Persistance.dll.config

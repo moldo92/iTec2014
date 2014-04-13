@@ -1,0 +1,66 @@
+\\SIN\Application1\Client\bin\Debug\Client.exe.config
+\\SIN\Application1\Client\obj\Debug\Client.exe
+\\SIN\Application1\Client\obj\Debug\Client.pdb
+\\SIN\Application1\Client\bin\Debug\Client.exe
+\\SIN\Application1\Client\bin\Debug\Client.pdb
+\\SIN\Application1\Client\bin\Debug\Model.dll
+\\SIN\Application1\Client\bin\Debug\Helper.dll
+\\SIN\Application1\Client\bin\Debug\Model.pdb
+\\SIN\Application1\Client\bin\Debug\Helper.pdb
+\\SIN\Application1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Client\obj\Debug\Client.GUI_items.Login.Login.resources
+\\SIN\Application1\Client\obj\Debug\Client.GUI_items.Login.LoginView.resources
+\\SIN\Application1\Client\obj\Debug\Client.MainWindow.resources
+\\SIN\Application1\Client\obj\Debug\Client.Properties.Resources.resources
+\\SIN\Application1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+\\SIN\Application1\Client\bin\Debug\Networking.dll
+\\SIN\Application1\Client\bin\Debug\Services.dll
+\\SIN\Application1\Client\bin\Debug\Networking.pdb
+\\SIN\Application1\Client\bin\Debug\Services.pdb
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Client.exe.config
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Client.exe
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Client.pdb
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Model.dll
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Networking.dll
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Services.dll
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Model.pdb
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Networking.pdb
+E:\Programming\Projects\iTech\Application\Application1\Client\bin\Debug\Services.pdb
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.GUI_items.Items.Items.resources
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.GUI_items.Login.Login.resources
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.GUI_items.Login.LoginView.resources
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.MainWindow.resources
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.exe
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.pdb
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.GUI_items.Controls.LoadingPanel.resources
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.GUI_items.Users.UserView.resources
+E:\Programming\Projects\iTech\Application\Application1\Client\obj\Debug\Client.GUI_items.Vote.VoteView.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Client.exe.config
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Client.exe
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Client.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Helper.dll
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Model.dll
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Networking.dll
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Services.dll
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Helper.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Model.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Networking.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Client\bin\Debug\Services.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.GUI_items.Controls.LoadingPanel.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.GUI_items.Items.Items.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.GUI_items.Login.Login.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.GUI_items.Login.LoginView.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.GUI_items.Users.UserView.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.GUI_items.Vote.VoteView.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.MainWindow.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.exe
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Client\obj\Debug\Client.GUI_items.Report.ReportView.resources

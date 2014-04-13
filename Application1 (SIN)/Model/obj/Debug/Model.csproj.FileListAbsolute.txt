@@ -1,0 +1,21 @@
+\\SIN\Application1\Model\bin\Debug\Model.dll
+\\SIN\Application1\Model\bin\Debug\Model.pdb
+\\SIN\Application1\Model\bin\Debug\Helper.dll
+\\SIN\Application1\Model\bin\Debug\Helper.pdb
+\\SIN\Application1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Model\obj\Debug\Model.dll
+\\SIN\Application1\Model\obj\Debug\Model.pdb
+E:\Programming\Projects\iTech\Application\Application1\Model\bin\Debug\Model.dll
+E:\Programming\Projects\iTech\Application\Application1\Model\bin\Debug\Model.pdb
+E:\Programming\Projects\iTech\Application\Application1\Model\bin\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Model\bin\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\iTech\Application\Application1\Model\obj\Debug\Model.dll
+E:\Programming\Projects\iTech\Application\Application1\Model\obj\Debug\Model.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Model\bin\Debug\Model.dll
+E:\Facultate\iTEC\Application1 (SIN)\Model\bin\Debug\Model.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Model\bin\Debug\Helper.dll
+E:\Facultate\iTEC\Application1 (SIN)\Model\bin\Debug\Helper.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Facultate\iTEC\Application1 (SIN)\Model\obj\Debug\Model.dll
+E:\Facultate\iTEC\Application1 (SIN)\Model\obj\Debug\Model.pdb

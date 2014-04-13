@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<Conn>
+		<Port>55555</Port>
+		<Ip>127.0.0.1</Ip>
+		<Db>app1</Db>
+		<DbIp>localhost</DbIp>
+		<User>root</User>
+		<Pass></Pass>
+	</Conn>
+</Settings>

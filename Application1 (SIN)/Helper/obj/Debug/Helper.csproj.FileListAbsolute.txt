@@ -1,0 +1,9 @@
+\\SIN\Application1\Helper\bin\Debug\Helper.dll
+\\SIN\Application1\Helper\bin\Debug\Helper.pdb
+\\SIN\Application1\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Helper\obj\Debug\Helper.dll
+\\SIN\Application1\Helper\obj\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Helper\bin\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Helper\bin\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Helper\obj\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Helper\obj\Debug\Helper.pdb

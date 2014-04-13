@@ -1,0 +1,27 @@
+\\SIN\Application1\Services\bin\Debug\Services.dll
+\\SIN\Application1\Services\bin\Debug\Services.pdb
+\\SIN\Application1\Services\bin\Debug\Model.dll
+\\SIN\Application1\Services\bin\Debug\Helper.dll
+\\SIN\Application1\Services\bin\Debug\Model.pdb
+\\SIN\Application1\Services\bin\Debug\Helper.pdb
+\\SIN\Application1\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Services\obj\Debug\Services.dll
+\\SIN\Application1\Services\obj\Debug\Services.pdb
+E:\Programming\Projects\iTech\Application\Application1\Services\bin\Debug\Services.dll
+E:\Programming\Projects\iTech\Application\Application1\Services\bin\Debug\Services.pdb
+E:\Programming\Projects\iTech\Application\Application1\Services\bin\Debug\Model.dll
+E:\Programming\Projects\iTech\Application\Application1\Services\bin\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Services\bin\Debug\Model.pdb
+E:\Programming\Projects\iTech\Application\Application1\Services\bin\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\iTech\Application\Application1\Services\obj\Debug\Services.dll
+E:\Programming\Projects\iTech\Application\Application1\Services\obj\Debug\Services.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Services\bin\Debug\Services.dll
+E:\Facultate\iTEC\Application1 (SIN)\Services\bin\Debug\Services.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Services\bin\Debug\Model.dll
+E:\Facultate\iTEC\Application1 (SIN)\Services\bin\Debug\Helper.dll
+E:\Facultate\iTEC\Application1 (SIN)\Services\bin\Debug\Model.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Services\bin\Debug\Helper.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Facultate\iTEC\Application1 (SIN)\Services\obj\Debug\Services.dll
+E:\Facultate\iTEC\Application1 (SIN)\Services\obj\Debug\Services.pdb

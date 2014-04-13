@@ -1,0 +1,33 @@
+\\SIN\Application1\Networking\bin\Debug\Networking.dll
+\\SIN\Application1\Networking\bin\Debug\Networking.pdb
+\\SIN\Application1\Networking\bin\Debug\Helper.dll
+\\SIN\Application1\Networking\bin\Debug\Model.dll
+\\SIN\Application1\Networking\bin\Debug\Services.dll
+\\SIN\Application1\Networking\bin\Debug\Helper.pdb
+\\SIN\Application1\Networking\bin\Debug\Model.pdb
+\\SIN\Application1\Networking\bin\Debug\Services.pdb
+\\SIN\Application1\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+\\SIN\Application1\Networking\obj\Debug\Networking.dll
+\\SIN\Application1\Networking\obj\Debug\Networking.pdb
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Networking.dll
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Networking.pdb
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Helper.dll
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Model.dll
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Services.dll
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Helper.pdb
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Model.pdb
+E:\Programming\Projects\iTech\Application\Application1\Networking\bin\Debug\Services.pdb
+E:\Programming\Projects\iTech\Application\Application1\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\iTech\Application\Application1\Networking\obj\Debug\Networking.dll
+E:\Programming\Projects\iTech\Application\Application1\Networking\obj\Debug\Networking.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Networking.dll
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Networking.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Helper.dll
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Model.dll
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Services.dll
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Helper.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Model.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Networking\bin\Debug\Services.pdb
+E:\Facultate\iTEC\Application1 (SIN)\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+E:\Facultate\iTEC\Application1 (SIN)\Networking\obj\Debug\Networking.dll
+E:\Facultate\iTEC\Application1 (SIN)\Networking\obj\Debug\Networking.pdb
